@@ -39,6 +39,6 @@ Click [here](https://public.tableau.com/views/E-LearningPlatformDashboard/Dashbo
 
 # Result Discussion
 
-You can read the result discussion on my medium story [here]().
+You can read the result discussion on my medium story [here](https://medium.com/@rickisubagya/e-learning-platform-dashboard-3e346dc53fd7).
 
 Appreciate your feedback. Let's connect on [LinkedIn](https://www.linkedin.com/in/rickisubagya/)

@@ -6,18 +6,18 @@ This project is to analyze a database, which shows student engagement with the 3
 
 # Data Dictionary
 
-You can read the data dictionary [here]()
+You can read the data dictionary [here](https://github.com/rickisubagya/Elearning-Platform-Dashboard/blob/main/data_dict.md)
 
 # Data Preparation
 ### Source 1
-I construct a data source excuted on MySQL environmnent. [Source 1](), which will later form on Tableau:
+I construct a data source excuted on MySQL environmnent. [Source 1](https://github.com/rickisubagya/Elearning-Platform-Dashboard/blob/main/data_preparation/source_1.sql), which will later form on Tableau:
 - Registered Student (Card)
 - % Onboarded Student (Card)
 - Registered Student (Area)
 - % Onboarded Student (Stacked Bar)
 
 ### Source 2
-I construct a data source excuted on MySQL environmnent. [Source 2](), which will later form on Tableau:
+I construct a data source excuted on MySQL environmnent. [Source 2](https://github.com/rickisubagya/Elearning-Platform-Dashboard/blob/main/data_preparation/source_2.sql), which will later form on Tableau:
 - Total Minutes Watched (Card)
 - Average Minutes Watched (Card)
 - Top Country by Number of Students Watched (Bar)
@@ -27,7 +27,7 @@ I construct a data source excuted on MySQL environmnent. [Source 2](), which wil
 - Subscription Type (Parameter Filter)
 
 ### Source 3
-I construct a data source excuted on MySQL environmnent. [Source 3](), which will later form on Tableau:
+I construct a data source excuted on MySQL environmnent. [Source 3](https://github.com/rickisubagya/Elearning-Platform-Dashboard/blob/main/data_preparation/source_3.sql), which will later form on Tableau:
 - Top 5 Course by Total Minutes Watched (Bar)
 - Average Minutes of Top 5 Course by Total Minutes Watched (Bar)
 - Number Ratings of Top 5 Course by Total Minutes Watched (Bar)
